@@ -1,6 +1,6 @@
 {
   "name": "professions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of more common job titles.",
   "main": "index.js",
   "scripts": {

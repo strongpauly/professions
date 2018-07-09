@@ -1,4 +1,4 @@
-export default const professions = [
+export default [
     "Academic librarian",
     "Accountant",
     "Accounting technician",
@@ -287,6 +287,7 @@ export default const professions = [
     "Retail merchandiser",
     "Retail pharmacist",
     "Sales executive",
+    "Sales manager",
     "Scene of crime officer",
     "Secretary",
     "Seismic interpreter",
