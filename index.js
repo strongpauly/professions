@@ -1,4 +1,4 @@
-export default [
+module.exports = [
     "Academic librarian",
     "Accountant",
     "Accounting technician",
